@@ -1,2 +1,2 @@
 # helloWord
-testOnly
+System.out.println("Hello World!");
